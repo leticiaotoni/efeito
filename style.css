@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align:left;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding: 20px;
+    color:#8ad8d8;
+    font-family: sans-serif;
+}
+
+.container {
+    width: 50vw;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+.titulo-accordion {
+    padding-bottom: 20px;
+    cursor: pointer;
+    background-color: paleturquoise;
+    padding: 15px;
+    color: #fff;
+    font-family: sans-serif;
+    font-weight: lighter;
+    border-radius: 8px;
+  
+}
+
+.conteudo-accordion{
+    display: none;
+    padding: 20px;
+}
+
+.block{
+    display: block;
+}
